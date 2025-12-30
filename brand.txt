@@ -1,0 +1,4 @@
+Group,Output
+Pithy Slogans,"* Purely Rooted. Magically Refined.  * Tradition Without the Guilt.  * Heritage, Purified."
+'Our Story' Blurb,"Born from the earthen warmth of tradition and the gold standard of purity, MishTee-Magic crafts artisanal sweets using organic ingredients and A2 milk. We’ve reimagined India’s timeless flavors to be as kind to your body as they are to your soul."
+Collection Names,"* The Vedic Gold Series (Focus on A2 Milk & Ghee basics)  * The Earth & Ember Range (Focus on roasted nuts & organic jaggery)  * The Mindful Alchemy (Focus on low-sugar & gluten-free innovations)  * The Saffron Signature (High-end, artisanal luxury gift boxes)"
